@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(166, 59, 162);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    text-decoration: none;
+    background-color: brown;
+    font-size: 60px;
+
+
+}
+nav a{
+    text-decoration: none;
+
+}
+.nav-left{
+    color: white;
+    margin-right: 500px;
+}
+.nav-right{
+    color: white;
+    margin-right: 350px;
+}
+.Shivam{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+.Shivaay{
+    border-radius: 450%;
+    margin-left: 720px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+pre{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.Shiv{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.image{
+    height: 450px;
+    width: 350px;
+    font-size: 15px;
+    background-color: grey;
+    align-items: center;
+    float: right;
+    margin-right: 120px;
+
+}
